@@ -2,6 +2,18 @@
 
 /* ALUMNO: LEANDRO FERREYRA T.  */
 
+ body { 
+  
+  background-image: url("imagenfondo.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: aquamarine;
+
+
+}
+
+
 p {
   color: rgb(132, 0, 255);
     
