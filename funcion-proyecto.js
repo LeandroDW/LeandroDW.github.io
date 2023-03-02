@@ -13,7 +13,7 @@ document.getElementById("dni").addEventListener('click', function imgagen(params
 
 
 document.getElementById("analitico").addEventListener('click', function imgagen(params) {
-  imagen = '<img src="analitico.jgp" alt="Mi Certidicado Analitico" height="300px" width="300px" />'
+  imagen = '<img src="analitico.jpg" alt="Mi Certidicado Analitico" height="300px" width="300px" />'
   document.getElementById('links').innerHTML = imagen;
 
   
