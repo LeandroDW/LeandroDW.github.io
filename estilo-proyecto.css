@@ -1,0 +1,56 @@
+
+
+/* ALUMNO: LEANDRO FERREYRA T.  */
+
+p {
+  color: rgb(132, 0, 255);
+    
+  font-weight: bold;
+  font: 1em sans-serif;
+  font-style: italic;
+  margin: 10px 20px 10px 50px
+
+  }
+
+
+h1 {
+  
+  color: rgb(132, 0, 255);
+    
+    font-weight: bold;
+    font: 3em sans-serif;
+
+    margin: 50px
+}
+
+
+h2 {
+  
+  color: rgb(132, 0, 255);
+    
+    font-weight: bold;
+    font: 2em sans-serif;
+    margin: 10px 20px 10px 50px
+}
+
+li {
+  
+  color: rgb(19, 15, 22);
+    
+    font-weight: bold;
+    font: 1.5em sans-serif;
+    font-style: italic;
+    margin: 10px 20px 10px 50px
+}
+
+img {
+  
+
+    margin: 10px 20px 10px 50px
+}
+
+button {
+  
+
+  margin: 10px 20px 10px 50px
+}
